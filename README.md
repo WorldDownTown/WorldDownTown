@@ -7,8 +7,8 @@
 
 ## 🏃 Activities
 <div align="left">
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=WorldDownTown&theme=transparent&layout=compact&count_private=true" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WorldDownTown&theme=transparent&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-git-master-worlddowntown.vercel.app/api?username=WorldDownTown&theme=transparent&layout=compact&count_private=true" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-git-master-worlddowntown.vercel.app/api/top-langs/?username=WorldDownTown&theme=transparent&layout=compact" />
 </div>
 
 <!--
